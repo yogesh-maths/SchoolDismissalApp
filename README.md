@@ -12,3 +12,6 @@ School dismissal management application designed to improve student pickup safet
 - School dismissal workflow
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14b3d249-8712-4082-ba60-d6ee76033224" width="220"/>
+</p>
