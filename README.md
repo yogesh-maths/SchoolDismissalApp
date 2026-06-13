@@ -15,4 +15,4 @@ School dismissal management application designed to improve student pickup safet
 
 ### Login
 
-<img width="720" height="1600" alt="..." src="https://github.com/user-attachments/assets/..." />
+![Login Screen](https://github.com/user-attachments/assets/14b3d249-8712-4082-ba60-d6ee76033224)
